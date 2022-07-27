@@ -4,6 +4,7 @@
 void main()
 {
    clrscr();
-   cout<<"Hello world !!";
+   cout<<"Hello world !!"<<endl;
+   cout<<"I am c++ programmer !!";
    getch();
 }
